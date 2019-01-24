@@ -12,7 +12,7 @@ RTP Payload Format For AV1 (v0.1.6)
 This memo describes an RTP payload format for the [AV1 video codec][AV1]. The
 payload format has wide applicability, from low bit-rate peer-to-peer usage, to
 high bit-rate multi-party video conferences. It includes provisions for temporal
-and spatial scalability. test
+and spatial scalability.
 
 
 ## Status of this memo
